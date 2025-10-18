@@ -1,8 +1,9 @@
 streamlit
-torch==2.2.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+torch==2.5.1
 transformers
 sentence-transformers
 scikit-learn
 pandas
 numpy
 joblib
+PyPDF2
