@@ -7,3 +7,4 @@ pandas
 numpy
 joblib
 PyPDF2
+matplotlib
