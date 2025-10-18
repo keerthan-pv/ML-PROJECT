@@ -1,10 +1,23 @@
+# Core
 streamlit
+
+# ML / NLP
 torch==2.5.1
 transformers
 sentence-transformers
 scikit-learn
-pandas
 numpy
+pandas
 joblib
+
+# PDF / text processing
 PyPDF2
+regex
+
+# Visualization
 matplotlib
+seaborn
+wordcloud
+
+# Optional utilities (if used)
+tqdm
